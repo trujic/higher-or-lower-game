@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/trujic/higher-or-lower-game/static/css/main.4b0e6fae.chunk.css",
+    "main.js": "/trujic/higher-or-lower-game/static/js/main.90b9c859.chunk.js",
+    "main.js.map": "/trujic/higher-or-lower-game/static/js/main.90b9c859.chunk.js.map",
+    "runtime-main.js": "/trujic/higher-or-lower-game/static/js/runtime-main.5c947ef1.js",
+    "runtime-main.js.map": "/trujic/higher-or-lower-game/static/js/runtime-main.5c947ef1.js.map",
+    "static/js/2.4ce4070b.chunk.js": "/trujic/higher-or-lower-game/static/js/2.4ce4070b.chunk.js",
+    "static/js/2.4ce4070b.chunk.js.map": "/trujic/higher-or-lower-game/static/js/2.4ce4070b.chunk.js.map",
+    "index.html": "/trujic/higher-or-lower-game/index.html",
+    "precache-manifest.64d49e8250d59628360176472afa6c80.js": "/trujic/higher-or-lower-game/precache-manifest.64d49e8250d59628360176472afa6c80.js",
+    "service-worker.js": "/trujic/higher-or-lower-game/service-worker.js",
+    "static/css/main.4b0e6fae.chunk.css.map": "/trujic/higher-or-lower-game/static/css/main.4b0e6fae.chunk.css.map",
+    "static/js/2.4ce4070b.chunk.js.LICENSE.txt": "/trujic/higher-or-lower-game/static/js/2.4ce4070b.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/trujic/higher-or-lower-game/static/media/1.ee071552.png",
+    "static/media/10.png": "/trujic/higher-or-lower-game/static/media/10.77c92e5b.png",
+    "static/media/12.png": "/trujic/higher-or-lower-game/static/media/12.c1b9358c.png",
+    "static/media/13.png": "/trujic/higher-or-lower-game/static/media/13.0672fc9b.png",
+    "static/media/14.png": "/trujic/higher-or-lower-game/static/media/14.ce44154d.png",
+    "static/media/2.png": "/trujic/higher-or-lower-game/static/media/2.ec7719ba.png",
+    "static/media/3.png": "/trujic/higher-or-lower-game/static/media/3.4294570c.png",
+    "static/media/4.png": "/trujic/higher-or-lower-game/static/media/4.497d5e69.png",
+    "static/media/5.png": "/trujic/higher-or-lower-game/static/media/5.5949deb9.png",
+    "static/media/6.png": "/trujic/higher-or-lower-game/static/media/6.93dc24a8.png",
+    "static/media/7.png": "/trujic/higher-or-lower-game/static/media/7.c2e94427.png",
+    "static/media/8.png": "/trujic/higher-or-lower-game/static/media/8.02a84863.png",
+    "static/media/9.png": "/trujic/higher-or-lower-game/static/media/9.373336fb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c947ef1.js",
+    "static/js/2.4ce4070b.chunk.js",
+    "static/css/main.4b0e6fae.chunk.css",
+    "static/js/main.90b9c859.chunk.js"
+  ]
+}
